@@ -8,6 +8,9 @@ Two years of practical development followed by the publication of games on the Y
 Now I am developing a large project, which I decided to call _"Power Of Elements"_. 
 Expected a **TBS** (turn-based strategy) **CCG** (collectible card game) grid-based game with elements of procedural generation and character leveling.
 
+### Purpose:
+Work in a company by profession Junior+ Unity Developer
+
 ### For communication:
 - email: Mopo3Hoe7yTpo@yandex.ru<br>
 - telegramm: @cran_um
