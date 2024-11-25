@@ -5,3 +5,7 @@ Experience: two years of practical development followed by the publication of ga
 
 Now I am developing a large project, which I decided to call "Power Of Elements". 
 Expected a TBS (turn-based strategy) CCG (collectible card game) grid-based game with elements of procedural generation and character leveling.
+
+For communication:
+Mopo3Hoe7yTpo@yandex.ru
+@cran_um - telegramm
