@@ -2,7 +2,7 @@
 Student, 20 years old. I specialize in developing games based on the Unity engine, C#. 
 
 ### Experience 
-Two years of practical development followed by the publication of games on the Yandex Games platform (organization [Areoplay Games](https://yandex.ru/games/developer/77960) and i am its only representative). This development included working with the WebGL format, cross-platform, localization settings, PluginYG, monetization and very harsh moderation) Unfortunately, this platform removes games that few visitors have visited, so there are few projects left.
+Two years of practical development followed by the publication of games on the Yandex Games platform (organization [Areoplay Games](https://yandex.ru/games/developer/77960 "Link to YandexGames author page") and i am its only representative). This development included working with the WebGL format, cross-platform, localization settings, PluginYG, monetization and very harsh moderation) Unfortunately, this platform removes games that few visitors have visited, so there are few projects left.
 
 ### Current development:
 Now I am developing a large project, which I decided to call _"Power Of Elements"_. 
